@@ -6,6 +6,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. As a dedicated and detail-oriented Cybersecurity Analyst, I specialize in protecting information systems and data from cyber threats.
 
 Ojective
+
 Dedicated and motivated individual transitioning from agricultural engineering to cybersecurity. Equipped with foundational knowledge and hands-on experience in SOC analyst skills, eager to contribute to a dynamic security operations team.
 ## Skills
 Skills and associated project. 
