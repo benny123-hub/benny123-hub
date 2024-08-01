@@ -23,54 +23,50 @@ Skills and associated project.
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 Virtualization and OS
+
 Oracle VM VirtualBox
 
-html
-Copy code
 <a href="https://www.virtualbox.org/" target="_blank">
   <img src="https://img.shields.io/badge/Oracle_VM_VirtualBox-4B6EFA?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VM VirtualBox"/>
 </a>
+
 Linux OS on VM
 
-html
-Copy code
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux OS"/>
 </a>
+
 SIEM Tools
+
 Splunk
 
-html
-Copy code
 <a href="https://www.splunk.com/" target="_blank">
   <img src="https://img.shields.io/badge/Splunk-00A3E0?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
 </a>
+
 Elastic Search
 
-html
-Copy code
 <a href="https://www.elastic.co/elasticsearch/" target="_blank">
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic Search"/>
 </a>
+
 Threat and Malware Analysis
 Any.run
 
-html
-Copy code
 <a href="https://any.run/" target="_blank">
   <img src="https://img.shields.io/badge/Any.run-0099FF?style=for-the-badge&logo=any.run&logoColor=white" alt="Any.run"/>
 </a>
+
 REMnux
 
-html
-Copy code
 <a href="https://remnux.org/" target="_blank">
   <img src="https://img.shields.io/badge/REMnux-FF9A1A?style=for-the-badge&logo=remnux&logoColor=white" alt="REMnux"/>
 </a>
+
 Development and Scripting
+
 PyCharm
-html
-Copy code
+
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 </a>
