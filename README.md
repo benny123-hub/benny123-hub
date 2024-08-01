@@ -43,8 +43,7 @@ Skills and associated project.
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
+
 <a href="https://www.isc2.org/Certifications/CISSP" target="_blank">
   <img src="https://img.shields.io/badge/CISSP-Certified-2c3e50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="CISSP Certified"/>
 </a>
@@ -56,3 +55,4 @@ Skills and associated project.
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Currency Converter App (I used Python scripting to code an app that converts between five different currencies.)
