@@ -5,12 +5,10 @@
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. As a dedicated and detail-oriented Cybersecurity Analyst, I specialize in protecting information systems and data from cyber threats.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
+Ojective
 Dedicated and motivated individual transitioning from agricultural engineering to cybersecurity. Equipped with foundational knowledge and hands-on experience in SOC analyst skills, eager to contribute to a dynamic security operations team.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Skills and associated project. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -47,12 +45,13 @@ Dedicated and motivated individual transitioning from agricultural engineering t
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="https://www.isc2.org/Certifications/CISSP" target="_blank">
+  <img src="https://img.shields.io/badge/CISSP-Certified-2c3e50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="CISSP Certified"/>
+</a>
+<a href="https://www.sololearn.com/certificates/CT-XXXXXXXX" target="_blank">
+  <img src="https://img.shields.io/badge/SoloLearn-Certified-brightgreen?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn Certified"/>
+</a>
+
 
 ## Projects
 - Detection Lab
