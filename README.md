@@ -1,5 +1,7 @@
 # Hello, I'm EJUYA BENEFITS
-<a href="https://linkedin.com//in/ejuya-benefits/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ejuya-benefits/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Ejuya Benefits"/>
+</a>
 
 Brief Introduction
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. As a dedicated and detail-oriented Cybersecurity Analyst, I specialize in protecting information systems and data from cyber threats.
