@@ -20,10 +20,9 @@ Skills and associated project.
 | Vast Knowledge on operating systems           | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools 
 
-Virtualization and OS
+Virtualization and OS Tools
 
 <a href="https://www.virtualbox.org/" target="_blank">
   <img src="https://img.shields.io/badge/Oracle_VM_VirtualBox-4B6EFA?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VM VirtualBox"/>
