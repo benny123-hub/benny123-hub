@@ -22,7 +22,7 @@ Dedicated and motivated individual transitioning from agricultural engineering t
 
 
 ## Skills
-Skills and associated project. 
+ 
 
 | Technical Skills                                         | Soft Skills        |
 |-----------------------------------------------|----------------------------|
