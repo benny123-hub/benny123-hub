@@ -3,7 +3,11 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Ejuya Benefits"/>
 </a>
 
-https://img.shields.io/badge/Email-bennyejuya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+## Contact Me
+
+You can reach me via email by clicking the badge below:
+
+[![Email](https://img.shields.io/badge/Email-bennyejuya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennyejuya@gmail.com)
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. As a dedicated and detail-oriented Cybersecurity Analyst, I specialize in protecting information systems and data from cyber threats.
 
