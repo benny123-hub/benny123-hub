@@ -80,9 +80,10 @@ Development and Scripting
 
 ## Certifications
 
-<a href="https://www.isc2.org/Certifications/CISSP" target="_blank">
-  <img src="https://img.shields.io/badge/CISSP-Certified-2c3e50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="CISSP Certified"/>
+<a href="https://www.isc2.org/Certifications/Certified-in-Cybersecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Certified_in_Cybersecurity-CC-0072b1?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Certified in Cybersecurity (CC)"/>
 </a>
+
 <a href="https://www.sololearn.com/certificates/CT-XXXXXXXX" target="_blank">
   <img src="https://img.shields.io/badge/SoloLearn-Certified-brightgreen?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn Certified"/>
 </a>
