@@ -18,21 +18,27 @@ Dedicated and motivated individual transitioning from agricultural engineering t
 
 ## Education
 
-B.Sc. Agricultural Engineering  
-[Obafemi Awolowo University], [Ile-Ife, Osun state, Nigeria]  
-[July, 2024]
+[![B.Sc. Agricultural Engineering](https://img.shields.io/badge/B.Sc._Agricultural_Engineering-Obafemi_Awolowo_University,_Ile--Ife,_Osun_state,_Nigeria-0072b1?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.oauife.edu.ng/)
+
 
 ## Skills
 Skills and associated project. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis                              | <a href="https://google.com">Detection Lab</a>|
-| Networking                                    | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Vast Knowledge on operating systems           | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          |   |
+| Malware Analysis                              |   |
+| Networking                                    |   |
+| Incident Response Planning and Execution      |   |
+| Endpoint Security                             |   |
+| Vast Knowledge on operating systems           |   |
+| Scripting and Automation for Threat Mitigation |  |
+| Vulnerability Management                      |   |
+| Threat Intelligence                           |   |
+| Analytical Thinking                           |
+| Attention to Detail                           |
+| Problem-Solving                               |
+| Team Collaboration and good communication skills |
 
 ## Tools 
 
