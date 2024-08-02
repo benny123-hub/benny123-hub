@@ -29,8 +29,8 @@ Skills and associated project.
 | SIEM Implementation and Log Analysis          |  Analytical Thinking |
 | Malware Analysis                              |  Attention to Detail     |
 | Networking                                    |  Problem-Solving  |
-| Incident Response Planning and Execution      |  Team Collaboration and good communication skills |
-| Endpoint Security                             |   |
+| Incident Response Planning and Execution      |  Good Communication skills |
+| Endpoint Security                             |  Team Collaboration |
 | Vast Knowledge on operating systems           |   |
 | Scripting and Automation for Threat Mitigation |  |
 | Vulnerability Management                      |   |
