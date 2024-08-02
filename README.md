@@ -24,21 +24,18 @@ Dedicated and motivated individual transitioning from agricultural engineering t
 ## Skills
 Skills and associated project. 
 
-| Skill                                         | Associated Project         |
+| Technical Skills                                         | Soft Skills        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |   |
-| Malware Analysis                              |   |
-| Networking                                    |   |
-| Incident Response Planning and Execution      |   |
+| SIEM Implementation and Log Analysis          |  Analytical Thinking |
+| Malware Analysis                              |  Attention to Detail     |
+| Networking                                    |  Problem-Solving  |
+| Incident Response Planning and Execution      |  Team Collaboration and good communication skills |
 | Endpoint Security                             |   |
 | Vast Knowledge on operating systems           |   |
 | Scripting and Automation for Threat Mitigation |  |
 | Vulnerability Management                      |   |
 | Threat Intelligence                           |   |
-| Analytical Thinking                           |
-| Attention to Detail                           |
-| Problem-Solving                               |
-| Team Collaboration and good communication skills |
+
 
 ## Tools 
 
