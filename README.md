@@ -13,6 +13,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 **Ojective
 **
+
 Dedicated and motivated individual transitioning from agricultural engineering to cybersecurity. Equipped with foundational knowledge and hands-on experience in SOC analyst skills, eager to contribute to a dynamic security operations team.
 
 Education
