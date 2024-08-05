@@ -93,4 +93,6 @@ Development and Scripting
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Simulated incident response scenarios to enhance practical skills
 - Currency Converter App (I used Python scripting to code an app that converts between five different currencies.)
+- I utilized the REMnux OS terminal to analyze logs, demonstrating my technical skills in log analysis and the use of cybersecurity tools.
