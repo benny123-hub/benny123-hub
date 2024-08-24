@@ -16,6 +16,18 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 Dedicated and motivated individual transitioning from agricultural engineering to cybersecurity. Equipped with foundational knowledge and hands-on experience in SOC analyst skills, eager to contribute to a dynamic security operations team.
 
+Experience
+Mastercard Cybersecurity virtual experience program on Forage - August 2024
+•	Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+•	Helped identify and report security threats such as phishing 
+•	Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+AIG Shields Up: Cybersecurity virtual experience program on Forage - August 2024
+•	Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+•	Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+•	Drafted a clear and concise email to guide teams on vulnerability remediation.
+•	Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
+
+
 ## Education
 
 [![B.Sc. Agricultural Engineering](https://img.shields.io/badge/B.Sc._Agricultural_Engineering-Obafemi_Awolowo_University,_Ile--Ife,_Osun_state,_Nigeria-0072b1?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.oauife.edu.ng/)
